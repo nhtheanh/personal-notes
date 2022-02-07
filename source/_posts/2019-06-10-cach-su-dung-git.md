@@ -1,5 +1,5 @@
 ---
-title: "Cách sử dụng Git"
+title: "Cách Sử Dụng Git"
 date: 2022-01-20
 draft: false
 ---
@@ -34,4 +34,12 @@ git commit -m "Tóm tắt nội dung thay đổi"
 
 ```bash
 git push origin master
+```
+
+```javascript
+var x = 10
+
+function plus() {
+  console.log("Tinh tong");
+}
 ```
